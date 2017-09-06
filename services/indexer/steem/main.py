@@ -14,7 +14,8 @@ import os
 
 # Connections
 nodes = [
-    'http://localhost:5090',
+    'https://gtg.steem.house:8090',
+    'https://steemd.steemit.com'
 ]
 
 s = Steem(nodes)
